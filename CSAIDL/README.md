@@ -187,7 +187,7 @@ interface MultiplyInterface {
 ## OUTPUT
 
 <img width="356" alt="out1" src="https://github.com/saieswar1607/Advance-Android-Odd-/assets/93427011/19dacede-e5fb-4711-ba15-04bac4735c27">
-
+<br>
 <img width="355" alt="out2" src="https://github.com/saieswar1607/Advance-Android-Odd-/assets/93427011/46382b00-468a-4867-b51b-caf56389ea7e">
 
 
