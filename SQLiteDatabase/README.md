@@ -1,4 +1,3 @@
-
 # Ex.No:1 To create a database table and to display the database table field using SQLite Database in Android Studio.
 
 
@@ -81,7 +80,9 @@ public class MainActivity extends AppCompatActivity {
         dbManager.insert(editUserName.getText().toString(), editUserPassword.getText().toString());
     }
 }
+
 ```
+
 ### DataBaseHelper.java:
 ```
 package com.example.dbms;
@@ -115,6 +116,7 @@ public class DataBaseHelper extends SQLiteOpenHelper {
     }
 }
 ```
+
 ### DataBaseManager.java:
 ```
 package com.example.dbms;
@@ -158,6 +160,7 @@ public class DataBaseManager {
     }
 }
 ```
+
 ### activity_main.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -234,9 +237,13 @@ public class DataBaseManager {
 </RelativeLayout>
 ```
 
-## OUTPUT
+## OUTPUT:
+<img width="960" alt="o1" src="https://user-images.githubusercontent.com/94827772/236914560-312ba8c2-6762-436c-b97f-9893bae03b5f.png">
+<img width="960" alt="o2" src="https://user-images.githubusercontent.com/94827772/236914571-c6e66bbe-3ada-4ac9-bd7e-29b995d51dd8.png">
+<img width="960" alt="o3" src="https://user-images.githubusercontent.com/94827772/236914576-d2f62e95-a1f7-4fc5-a51b-1ab76f2585e7.png">
+<img width="960" alt="04" src="https://user-images.githubusercontent.com/94827772/236914620-a528b369-5cb4-40a2-8547-7f42a3a32d92.png">
+<img width="164" alt="5" src="https://github.com/palamakuladeepika/Advance-Android-Odd-/assets/94154679/196f0d74-cb83-4829-9ff4-a814f6672a60">
 
-<img width="597" alt="1" src="https://github.com/palamakuladeepika/Advance-Android-Odd-/assets/94154679/de047b79-1ba4-40ee-b789-bb6d981f6dbe">
 
 
 
